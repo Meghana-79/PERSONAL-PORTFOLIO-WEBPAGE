@@ -17,3 +17,4 @@ To design a basic portfolio website, we will create a responsive single-page lay
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/4e853ea8-3c30-4749-bbab-76be227fea9f)
